@@ -5,10 +5,9 @@ This 🐵 have skilled at
 - 🐍Python: can write/read
 - ⚰️can sleep more than 10 hrs/day
 
-now this 🐵 interested at
-- TypeScript
-- NodeJS
-- Vim
+Project:
+- 🍲 noicesoup (with [richeyphu](https://github.com/richeyphu)) [repo](https://github.com/richeyphu/noicesoup)
+  - use bs4 n' selenium to build package for download pictures from Google automatically
 
 please be gentle /w me 🥺
 <!--
