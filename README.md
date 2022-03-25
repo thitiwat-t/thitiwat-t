@@ -12,8 +12,8 @@ Project:
   - use bs4 n' selenium to build package for download pictures from Google automatically
 - 🥺 my-sikes [repo](https://github.com/thitiwat-t/ReactFinalProject)
   - made with <3 n' 🩸 mixin w' NextJS/TypeScript/TailwindCSS
-- 🐱 (Unfinish)Slaviii (w' [richeyphu](https://github.com/richeyphu) n' [MookieS](https://github.com/ARabbitAteGrass))[repo](https://github.com/richeyphu/Slaviii)
-  - ** currently development **
+- 🐱 Slaviii (w' [richeyphu](https://github.com/richeyphu) n' [MookieS](https://github.com/ARabbitAteGrass)) [repo](https://github.com/richeyphu/Slaviii)
+  - Reminder app for notify time to feed your lovely ones'. Building w' JavaScript/Expo/Firebase
 
 please be gentle /w me 🥺
 <!--
