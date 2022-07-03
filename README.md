@@ -3,8 +3,7 @@
 Dis being can somewhat use
 - React/NextJS
 - TypeScript/JavaScript
-- TailwindCSS
-- Python
+- ChakraUI/TailwindCSS
 - ⚰️can sleep more than 10 hrs/day
 
 Project:
