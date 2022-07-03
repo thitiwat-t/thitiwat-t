@@ -16,6 +16,12 @@ Project:
   - Reminder app for notify time to feed your lovely ones'. Building w' JavaScript/Expo/Firebase
 
 please be gentle /w me 🥺
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thitiwat-t&layout=compact&langs_count=6&hide=jupyter%20notebook&theme=radical">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thitiwat-t&layout=compact&langs_count=6&hide=jupyter%20notebook">
+</picture>
 <!--
 **thitiwat-t/thitiwat-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
